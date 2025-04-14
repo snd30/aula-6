@@ -1,0 +1,58 @@
+body{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 100px;
+    background-color: darkblue;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 90px;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 10% ;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 20%;
+}
+#botoes{
+    
+font-size: 80px;
+justify-content: center;
+text-align: center;
+display: flex;
+border-radius: 10%;
+gap: 20px;
+border: 4px black;
+
+
+}
+button{
+    border-radius: 10%;
+    width: 150px;
+    font-size: 30px;
+   background-color: aqua;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#co{
+    justify-content: center;
+text-align: center;
+display: flex;
+    background-color: aqua;
+    text-align: center;
+    width: 100px;
+    height: 150px;
+    border-radius: 10% black ;
+    
+    
+}
+#txtmensagem{
+    background-color: aqua;
+    border: 2px black;
+   
+}
