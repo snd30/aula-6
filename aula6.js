@@ -13,7 +13,7 @@ function aumentar(){
 
 //função diminuir
 function diminuir(){
-    contador = contador + 1  
+    contador = contador - 1  
     //contador--
     txtcontador.innerHTML = contador
     exibirmensagem()
